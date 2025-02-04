@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Firecrawl + NextJS",
-  description: "Extract information from websites with Firecrawl and NextJS",
+  title: "Firecrawl + Next.js",
+  description: "Extract information from websites with Firecrawl and Next.js",
 };
 
 export default function RootLayout({

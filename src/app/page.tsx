@@ -40,7 +40,7 @@ export default function Home() {
     <div className='min-h-screen bg-gradient-to-br from-orange-50 to-orange-100 dark:from-gray-900 dark:to-gray-800 p-8'>
       <main className='max-w-4xl mx-auto flex flex-col gap-8 items-center'>
         <h1 className='text-4xl font-bold text-gray-800 dark:text-white flex items-center gap-3 mt-12'>
-          Firecrawl + NextJS
+          Firecrawl + Next.js
           <span role='img' aria-label='fire'>
             🔥
           </span>

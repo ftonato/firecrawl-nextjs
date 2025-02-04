@@ -1,6 +1,17 @@
-# Firecrawl + Next.js Content Extraction Project
+# Firecrawl + Next.js 🔥 
 
-This project combines Firecrawl and NextJS to create a simple content extraction application. It allows users to input URLs and extract the most important information from web pages.
+This project combines Firecrawl and Next.js to create a simple **content extraction application**. It allows users to input URLs and extract the most important information from web pages.
+
+## Demo
+
+[![Firecrawl + Next.js Demo](https://img.youtube.com/vi/kmRfVZ5Hy9w/maxresdefault.jpg)](https://youtu.be/kmRfVZ5Hy9w)
+
+Watch how easy it is to extract content:
+1. Enter any webpage URL
+2. Write your custom prompt or use the default
+3. Get AI-powered content extraction instantly
+
+Try it yourself by following the setup instructions below or check out the [live demo](https://firecrawl-nextjs.vercel.app/).
 
 ## Prerequisites
 
